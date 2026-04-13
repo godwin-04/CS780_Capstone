@@ -1,5 +1,5 @@
 CS780 Capstone Project: 
-OBELIX: the Warehouse Robot
+## OBELIX: the Warehouse Robot
 
 
 
