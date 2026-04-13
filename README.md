@@ -1,6 +1,6 @@
 CS780 Capstone Project: 
 OBELIX: the Warehouse Robot
-\nName: Godwin Shalom  
+\\Name: Godwin Shalom  
 
 
 
